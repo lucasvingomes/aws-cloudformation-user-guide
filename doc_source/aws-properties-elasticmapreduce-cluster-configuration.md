@@ -23,7 +23,7 @@ To declare this entity in your AWS CloudFormation template, use the following sy
 
 ```
   [Classification](#cfn-elasticmapreduce-cluster-configuration-classification): String
-  [ConfigurationProperties](#cfn-elasticmapreduce-cluster-configuration-configurationproperties): 
+  [Properties](#cfn-elasticmapreduce-cluster-configuration-configurationproperties): 
     Key : Value
   [Configurations](#cfn-elasticmapreduce-cluster-configuration-configurations): 
     - Configuration
